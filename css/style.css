@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap');
+
+.banner {
+    display:flex;
+    justify-content: center;
+    
+    background-color: #333;
+    color: white;
+    font-family: "Asimovian", sans-serif;
+}
+
+.banner h1{
+    font-size: 2.5em;
+}
