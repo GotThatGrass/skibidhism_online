@@ -55,5 +55,5 @@ body {
 .banner .nav-bar a:nth-child(5):hover { background-color: #ffe6d4; } /* soft peach */
 
 .banner .nav-bar a:hover {
-    transform: scale(1.03);
+    transform: scale(1.05);
 }
